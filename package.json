@@ -20,6 +20,7 @@
     "@storybook/addon-interactions": "^8.0.10",
     "@storybook/addon-links": "^8.0.10",
     "@storybook/blocks": "^8.0.10",
+    "@storybook/theming": "^8.0.10",
     "nuxt": "^3.11.2",
     "storybook": "^8.0.10",
     "typescript": "^5.4.5",
